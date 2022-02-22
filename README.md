@@ -5,6 +5,8 @@ This repository includes code, data and calculation methodology.
 
 Our proposal is not an official list, but the research work and open methodology that allow everyone to repeat calculations and get similar results. 
 
+The data we used is a 4'640'807 public security reports and bulletins from more than 125 sources, including HackerOne bug bounty reports, CVE, NVD, and exploits collections.
+
 ## Repository
 
 * owasp.py - a script that download data from Vulners API and calculate statistics
